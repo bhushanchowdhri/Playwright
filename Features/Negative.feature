@@ -1,7 +1,7 @@
 Feature: Playwright Home Page
 
  
-  @test
+  @test1
   Scenario: Check title but fail
     Given I am on Playwright home page
     When I click link "Get started"
