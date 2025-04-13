@@ -37,6 +37,6 @@ export default defineConfig({
       },
     },
   ],
-  workers: 2,
+  workers: 1,
   fullyParallel: true,
 });
